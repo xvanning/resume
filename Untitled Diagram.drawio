@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T06:43:17.341Z" agent="5.0 (Macintosh)" version="21.0.2" etag="PSaNDDuL2ri2YpTqbHI8" type="github"><diagram name="Page-1" id="GmZIIauffMX4SrbMlZlq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-08T06:46:43.315Z" agent="5.0 (Macintosh)" etag="2S9bN58qHR4bZWwcqlJ8" version="21.0.2" type="github">
+  <diagram name="Page-1" id="GmZIIauffMX4SrbMlZlq">
+    <mxGraphModel dx="1434" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6K5Xd_codYNNOmME2cL5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6K5Xd_codYNNOmME2cL5-1" target="6K5Xd_codYNNOmME2cL5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="63" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6K5Xd_codYNNOmME2cL5-4" target="6K5Xd_codYNNOmME2cL5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-4" value="SDDC Provisioning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="60" width="75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6K5Xd_codYNNOmME2cL5-6" target="6K5Xd_codYNNOmME2cL5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-6" value="&lt;div&gt;Prosvioning Validator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="60" width="75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6K5Xd_codYNNOmME2cL5-8" target="6K5Xd_codYNNOmME2cL5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-8" value="&lt;div&gt;Host Provisioning&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="60" width="75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6K5Xd_codYNNOmME2cL5-10" target="6K5Xd_codYNNOmME2cL5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-10" value="POP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="60" width="75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6K5Xd_codYNNOmME2cL5-12" target="6K5Xd_codYNNOmME2cL5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-12" value="Storage Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566" y="60" width="75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6K5Xd_codYNNOmME2cL5-14" target="6K5Xd_codYNNOmME2cL5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-14" value="SDDC Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="60" width="75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6K5Xd_codYNNOmME2cL5-16" value="pod-based bringup(esx hosts)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="816" y="60" width="75" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
